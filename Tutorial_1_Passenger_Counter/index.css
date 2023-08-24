@@ -5,6 +5,7 @@ body {
     font-weight: bold;
     text-align: center;
     color: yellow;  
+    padding-top: 10px;
 }
 
 .container {
